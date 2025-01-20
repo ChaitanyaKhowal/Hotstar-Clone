@@ -1,5 +1,5 @@
 # **Hotstar Clone**
-A stunning web application that replicates the interface and features of the popular Hotstar streaming platform. Designed to provide an immersive user experience, this project highlights responsive design, seamless navigation, and front-end development expertise. [live demo!](https://chaitanyakhowalhotstarclone.netlify.app/)
+A stunning web application that replicates the interface and features of the popular Hotstar streaming platform. Designed to provide an immersive user experience, this project highlights responsive design, seamless navigation, and front-end development expertise. [Live Demo!](https://chaitanyakhowalhotstarclone.netlify.app/)
 
 ---
 
